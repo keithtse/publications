@@ -1,1 +1,1 @@
-This repository contains all my peer-reviewed publications (conference proceedings, working papers, book chapters, journal articles). 
+This repository contains all my peer-reviewed publications (conference proceedings, working papers, book chapters, journal articles) as well as other types of publication like blogposts and translations.  
